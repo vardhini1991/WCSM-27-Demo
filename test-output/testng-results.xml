@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-12T15:29:10 IST" name="Default suite" finished-at="2023-04-12T15:29:10 IST" duration-ms="43">
+  <suite started-at="2023-04-12T15:34:13 IST" name="Default suite" finished-at="2023-04-12T15:34:13 IST" duration-ms="44">
     <groups>
     </groups>
-    <test started-at="2023-04-12T15:29:10 IST" name="Default test" finished-at="2023-04-12T15:29:10 IST" duration-ms="43">
-      <class name="practice.sample">
-        <test-method signature="demo()[pri:0, instance:practice.sample@8317c52]" started-at="2023-04-12T15:29:10 IST" name="demo" finished-at="2023-04-12T15:29:10 IST" duration-ms="7" status="PASS">
+    <test started-at="2023-04-12T15:34:13 IST" name="Default test" finished-at="2023-04-12T15:34:13 IST" duration-ms="44">
+      <class name="Demo.Secondcommit">
+        <test-method signature="scommit()[pri:0, instance:Demo.Secondcommit@8317c52]" started-at="2023-04-12T15:34:13 IST" name="scommit" finished-at="2023-04-12T15:34:13 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo -->
-      </class> <!-- practice.sample -->
+        </test-method> <!-- scommit -->
+      </class> <!-- Demo.Secondcommit -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
